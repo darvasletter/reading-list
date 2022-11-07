@@ -7,8 +7,8 @@
 <h4><a name="m1">The Modern Library Hundred Best Novels of the Twentieth Century</a></h4>
 <ol>
   <li><cite>Ulysses</cite> <small><sup><a href="https://en.wikipedia.org/wiki/Ulysses_(novel)">[w]</a></sup></small> <small>by James Joyce, 1922, 1934 <sup><a href="https://archive.org/details/in.ernet.dli.2015.460204">[1]</a></sup></small>.</li>
-  <li><cite>The Great Gatsby</cite> <small><sup><a href="https://en.wikipedia.org/wiki/The_Great_Gatsby">[w]</a></sup></small> <small>by F. Scott Fitzgerald, 1925</small>.</li>
-    <li><cite>A Portrait of the Artist as a Young Man</cite> <small><sup><a href="https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man">[w]</a></sup></small> <small>by James Joyce, 1916</small>.</li>
+  <li><cite>The Great Gatsby</cite> <small><sup><a href="https://en.wikipedia.org/wiki/The_Great_Gatsby">[w]</a></sup></small> <small>by F. Scott Fitzgerald, 1925 <sup><a href="https://archive.org/details/in.ernet.dli.2015.184960">[1]</a></sup></small>.</li>
+    <li><cite>A Portrait of the Artist as a Young Man</cite> <small><sup><a href="https://en.wikipedia.org/wiki/A_Portrait_of_the_Artist_as_a_Young_Man">[w]</a></sup></small> <small>by James Joyce, 1916 <sup><a href="https://archive.org/details/portraitofartist00joycrich">[1]</a></sup></small>.</li>
     <li><cite>Lolita</cite> <small><sup><a href="https://en.wikipedia.org/wiki/Lolita">[w]</a></sup></small> <small>by Vladimir Nabokov, 1955</small>.</li>
     <li><cite>Brave New World</cite> <small><sup><a href="https://en.wikipedia.org/wiki/Brave_New_World">[w]</a></sup></small> <small>by Aldous Huxley, 1932</small>.</li>
     <li><cite>The Sound and the Fury</cite> <small><sup><a href="https://en.wikipedia.org/wiki/The_Sound_and_the_Fury">[w]</a></sup></small> <small>by William Faulkner, 1929</small>.</li>
