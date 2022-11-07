@@ -107,3 +107,5 @@
     <li><cite>The Ginger Man</cite> <small><sup><a href="https://en.wikipedia.org/wiki/The_Ginger_Man">[w]</a></sup></small> <small>by J. P. Donleavy, 1955</small>.</li>
     <li><cite>The Magnificent Ambersons</cite> <small><sup><a href="https://en.wikipedia.org/wiki/The_Magnificent_Ambersons">[w]</a></sup></small> <small>by Booth Tarkington, 1918</small>.</li>
 </ol>
+
+<p>Please e-mail me if you are interested in a more complete list.</p>
